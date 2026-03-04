@@ -1,0 +1,4 @@
+like (john,pizza).
+like(jhon,burger).
+% query;
+% ?-like(jhon,x).
