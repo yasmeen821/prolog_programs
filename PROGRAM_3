@@ -1,0 +1,8 @@
+% --- FACTS --- likes(john, pizza). 
+likes(john, sushi). 
+likes(mary, sushi).
+likes(mary, chocolate).
+likes(paul, pizza). 
+food_type(pizza, italian).
+food_type(sushi, japanese). 
+food_type(chocolate, dessert).
