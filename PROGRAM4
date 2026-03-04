@@ -1,0 +1,6 @@
+male(bob).
+male(tom). 
+male(jim). 
+female(pam).
+female(liz).
+female(ann).
